@@ -1,0 +1,131 @@
+{
+  "type": "FeatureCollection",
+  "name": "Dandous",
+  "crs": {
+    "type": "name",
+    "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "7 Dec",
+        "Time": "23.30",
+        "Type": "C",
+        "Wind": "75"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [84.60022, 9.200731653827642]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "8 Dec",
+        "Time": "5.30",
+        "Type": "C",
+        "Wind": "75"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [84.100342, 9.400628669472423]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "8 Dec",
+        "Time": "11.30",
+        "Type": "C",
+        "Wind": "85"
+      },
+      "geometry": { "type": "Point", "coordinates": [83.49884, 9.701274] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "8 Dec",
+        "Time": "17.30",
+        "Type": "C",
+        "Wind": "95"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [82.898712, 10.199706448567879]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "8 Dec",
+        "Time": "23.30",
+        "Type": "SC",
+        "Wind": "100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [82.199707, 10.50030134116705]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "9 Dec",
+        "Time": "5.30",
+        "Type": "SC",
+        "Wind": "100"
+      },
+      "geometry": { "type": "Point", "coordinates": [81.7932, 10.9061] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "9 Dec",
+        "Time": "11.30",
+        "Type": "C",
+        "Wind": "95"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [81.4911, 11.299600657065398]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "9 Dec",
+        "Time": "17.30",
+        "Type": "C",
+        "Wind": "85"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [81.1835, 11.918399344390835]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "9 Dec",
+        "Time": "23.30",
+        "Type": "DD",
+        "Wind": "65"
+      },
+      "geometry": { "type": "Point", "coordinates": [80.6891, 12.702] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "10 Dec",
+        "Time": "5.30",
+        "Type": "D",
+        "Wind": "55"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [80.095800670053691, 12.905499346872011]
+      }
+    }
+  ]
+}
